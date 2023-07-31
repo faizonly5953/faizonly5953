@@ -1,7 +1,7 @@
 # About Me
 
 ## Name
-My name is Faiz Bagus Pradana and I attend SMPN 42 Kota Bekasi (Indonesia).
+My name is Faiz Bagus Pradana and I attend SMAN 10 Kota Bekasi (Indonesia).
 
 ## Hobbies
 My hobby is coding and studying cybersecurity/hacking. I love anything related to technology and I want to understand how security systems work.
