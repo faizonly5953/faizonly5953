@@ -6,7 +6,7 @@
 🎓 &nbsp;I'm currently studying at SMAN 10 Kota Bekasi.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Cybersecurity, and Machine Learning.
 
-<img alt="Spongebob" src="https://raw.githubusercontent.com/faizonly5953/faizonly5953/main/assets/rainbow-spongebob.gif" align="right"/>
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -22,11 +22,13 @@
 ![Blender](https://img.shields.io/badge/-blender-05122A?style=flat&logo=blender)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+<img alt="Spongebob" src="https://raw.githubusercontent.com/faizonly5953/faizonly5953/main/assets/rainbow-spongebob.gif" align="right" style="width: 200px; height: 150px;"/>
+
 
 <p></p>
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/faizonly5953">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faizonly5953&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faizonly5953&layout=compact&langs_count=8&theme=algolia"/>
