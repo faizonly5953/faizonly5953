@@ -23,10 +23,10 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 <img alt="Spongebob" src="https://raw.githubusercontent.com/faizonly5953/faizonly5953/main/assets/rainbow-spongebob.gif" align="right"/>
-
+<p></p>
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/faizonly5953">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faizonly5953&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faizonly5953&layout=compact&langs_count=8&theme=algolia"/>
