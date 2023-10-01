@@ -25,7 +25,6 @@
 <img alt="Spongebob" src="https://raw.githubusercontent.com/faizonly5953/faizonly5953/main/assets/rainbow-spongebob.gif" align="right" style="width: 200px; height: 150px;"/>
 
 
-<p></p>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
