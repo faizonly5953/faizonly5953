@@ -1,9 +1,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 ✉️ &nbsp;My Name Is Faiz Bagus Pradana.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies.\
 🎓 &nbsp;I'm currently studying at SMAN 10 Kota Bekasi.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Cybersecurity, and Machine Learning.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Cybersecurity, and Machine Learning.
 
 
 
