@@ -6,6 +6,7 @@
 🎓 &nbsp;I'm currently studying at SMAN 10 Kota Bekasi.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Cybersecurity, and Machine Learning.
 
+![](https://komarev.com/ghpvc/?username=faizonly5953&label=PROFILE+VIEWS)
 
 
 ### 🛠 &nbsp;Tech Stack
