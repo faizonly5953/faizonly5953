@@ -22,6 +22,7 @@
 ![Blender](https://img.shields.io/badge/-blender-05122A?style=flat&logo=blender)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Unreal Engine 5](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unreal-engine)&nbsp;
+![Google Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=googlecolab)&nbsp;
 
 <img alt="Spongebob" src="https://raw.githubusercontent.com/faizonly5953/faizonly5953/main/assets/rainbow-spongebob.gif" align="right" style="width: 200px; height: 150px;"/>
 
